@@ -15,12 +15,14 @@
 		}
 		h1{
 			font-size: 100px;
+			font-weight: normal;
 			color: black;
 			font-family: Trash, "Poppins", sans serif;
 			text-align: center;
 		}
 		h2{
 			font-size: 20px;
+			font-weight: normal;
 			color: black;
 			font-family: Trash, "Poppins", sans serif;
 			text-align: center;
